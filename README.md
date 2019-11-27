@@ -16,10 +16,10 @@ Brute Justice readies Judgment Nisi
 Counter = 1
 Debuff = Beta
 
-Aiz Yaiba suffers the effect of Final Decree Nisi α.
-You suffer the effect of Final Decree Nisi β.
-Akemi Komatsu suffers the effect of Final Decree Nisi γ.
-Ostromir Liorasch suffers the effect of Final Decree Nisi δ.
+Aiz Yaiba suffers the effect of Final Decree Nisi α. \n
+You suffer the effect of Final Decree Nisi β. \n
+Akemi Komatsu suffers the effect of Final Decree Nisi γ. \n
+Ostromir Liorasch suffers the effect of Final Decree Nisi δ. \n
 
 ##### Debuff Passing 1
 Counter = 1
