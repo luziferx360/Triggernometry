@@ -17,9 +17,12 @@ Counter = 1
 Debuff = Beta
 
 Aiz Yaiba suffers the effect of Final Decree Nisi α.
+
 You suffer the effect of Final Decree Nisi β.
+
 Akemi Komatsu suffers the effect of Final Decree Nisi γ.
-Ostromir Liorasch suffers the effect of Final Decree Nisi δ.
+
+Ostromir Liorasch suffers the effect of Final Decree Nisi δ.  
 
 ##### Debuff Passing 1
 Counter = 1
