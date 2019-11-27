@@ -1,0 +1,70 @@
+Timeline Sceneario1
+DPS First
+
+Initiate
+Brute Justice readies Judgment Nisi
+
+First Debuff
+Counter = 1
+Debuff = Beta
+
+Aiz Yaiba suffers the effect of Final Decree Nisi α.
+You suffer the effect of Final Decree Nisi β.
+Akemi Komatsu suffers the effect of Final Decree Nisi γ.
+Ostromir Liorasch suffers the effect of Final Decree Nisi δ.
+
+Pass1
+Counter = 1
+Debuff = none
+
+Fen Nekin suffers the effect of Final Decree Nisi α.
+Neige Aile suffers the effect of Final Decree Nisi β.
+Dryads Celine suffers the effect of Final Decree Nisi γ.
+Miyuki Miyatsuki suffers the effect of Final Decree Nisi δ.
+You recovers from the effect of Final Decree Nisi
+
+Pass2
+Counter = 2
+Debuff = Beta
+
+Aiz Yaiba suffers the effect of Final Decree Nisi α.
+You suffer the effect of Final Decree Nisi β.
+Akemi Komatsu suffers the effect of Final Decree Nisi γ.
+Ostromir Liorasch suffers the effect of Final Decree Nisi δ.
+
+Verdict Casted
+
+Random Final Judgement
+
+You suffer the effect of Final Judgment: Decree Nisi α.
+Aiz Yaiba suffers the effect of Final Judgment: Decree Nisi γ.
+Akemi Komatsu suffers the effect of Final Judgment: Decree Nisi δ.
+Ostromir Liorasch suffers the effect of Final Judgment: Decree Nisi β.
+Fen Nekin suffers the effect of Final Judgment: Decree Nisi γ.
+Neige Aile suffers the effect of Final Judgment: Decree Nisi δ.
+Miyuki Miyatsuki suffers the effect of Final Judgment: Decree Nisi α.
+Dryads Celine suffers the effect of Final Judgment: Decree Nisi β.
+
+>>>> ACT Should call "Send Beta to Dryads Celine"
+
+Pass3
+Counter = 2
+Debuff = none
+
+Fen Nekin suffers the effect of Final Decree Nisi γ.
+Neige Aile suffers the effect of Final Decree Nisi δ.
+Miyuki Miyatsuki suffers the effect of Final Decree Nisi α.
+Dryads Celine suffers the effect of Final Decree Nisi β.
+You recovers from the effect of Final Decree Nisi
+
+Pass4
+Counter = 3
+
+>>>> ACT Should call "Stack with Alpha Miyuki Miyatsuki"
+
+You suffer the effect of Final Decree Nisi α.
+Aiz Yaiba suffers the effect of Final Decree Nisi γ.
+Akemi Komatsu suffers the effect of Final Decree Nisi δ.
+Ostromir Liorasch suffers the effect of Final Decree Nisi β.
+
+GG EZ
