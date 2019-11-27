@@ -29,4 +29,4 @@ Any question
 - ACT will call "Stack with Alpha You" If you didn't get the first cycle debuff
 - I know this is kinda annoying, but too lazy fixing this already ...
 
-### Sceneario I mention above can be found on "Sceneario" Files in this repo
+#### Test sceneario can be found on "Sceneario" Files in this repo
