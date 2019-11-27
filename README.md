@@ -8,6 +8,6 @@
 
 ### There's two sceneario in this section (3rd Passing)
 - If you have Nisi Debuff on your self (Eg. Delta, You need to send Delta to Partnet who have Final Judgement Delta)
-- >>>> ACT Should call "Send Beta to (Your Partnet Name)"
+- ACT Should call "Send Beta to (Your Partnet Name)"
 - If you don't Nisi Debuff on your self (Eg. Your Final Judgement Debuff is Delta , You need to get Delta from someone)
-- >>>> ACT Should call "Get Delta from (Your Partner Name)"
+- ACT Should call "Get Delta from (Your Partner Name)"
