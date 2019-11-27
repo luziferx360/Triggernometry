@@ -75,3 +75,5 @@ Akemi Komatsu suffers the effect of Final Decree Nisi δ.
 Ostromir Liorasch suffers the effect of Final Decree Nisi β.
 
 ##### Gavel Casted : GG EZ
+
+
