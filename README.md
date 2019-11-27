@@ -6,8 +6,8 @@
 - First Partner Callout timing is around when you attack CC's Plasma Shield (12s after getting Final Judgement Debuff)
 - Second Partner Callout timing is around when you need to stackup behind the ice (30s after getting Final Judgement Debuff)
 
-#### Test Timeline Sceneario1
-DPS First
+#### Timeline Sceneario1
+DPS getting Nisi First
 
 ##### Initiate
 Brute Justice readies Judgment Nisi
