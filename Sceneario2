@@ -1,0 +1,71 @@
+Timeline Sceneario2
+T/H First
+
+Initiate
+Brute Justice readies Judgment Nisi
+
+First Debuff
+Counter = 0
+Debuff = none
+
+Fen Nekin suffers the effect of Final Decree Nisi δ.
+Neige Aile suffers the effect of Final Decree Nisi γ.
+Dryads Celine suffers the effect of Final Decree Nisi β.
+Miyuki Miyatsuki suffers the effect of Final Decree Nisi α.
+
+Pass1
+Counter = 1
+Debuff = Beta
+
+Aiz Yaiba suffers the effect of Final Decree Nisi δ.
+You suffer the effect of Final Decree Nisi γ.
+Akemi Komatsu suffers the effect of Final Decree Nisi β.
+Ostromir Liorasch suffers the effect of Final Decree Nisi α.
+
+Pass2
+Counter = 2
+Debuff = none
+
+Fen Nekin suffers the effect of Final Decree Nisi δ.
+Neige Aile suffers the effect of Final Decree Nisi γ.
+Dryads Celine suffers the effect of Final Decree Nisi β.
+Miyuki Miyatsuki suffers the effect of Final Decree Nisi α.
+You recovers from the effect of Final Decree Nisi
+
+Verdict Casted
+
+Random Final Judgement
+
+You suffer the effect of Final Judgment: Decree Nisi δ.
+Aiz Yaiba suffers the effect of Final Judgment: Decree Nisi α.
+Akemi Komatsu suffers the effect of Final Judgment: Decree Nisi β.
+Ostromir Liorasch suffers the effect of Final Judgment: Decree Nisi γ.
+Fen Nekin suffers the effect of Final Judgment: Decree Nisi δ.
+Neige Aile suffers the effect of Final Judgment: Decree Nisi γ.
+Miyuki Miyatsuki suffers the effect of Final Judgment: Decree Nisi β.
+Dryads Celine suffers the effect of Final Judgment: Decree Nisi α.
+
+>>>> ACT Should call "Get Delta from Fen Nekin"
+
+Pass3
+Counter = 2
+Debuff = none
+
+You suffer the effect of Final Decree Nisi δ.
+Aiz Yaiba suffers the effect of Final Decree Nisi α.
+Akemi Komatsu suffers the effect of Final Decree Nisi β.
+Ostromir Liorasch suffers the effect of Final Decree Nisi γ.
+
+Pass4
+Counter = 3
+
+>>>> ACT Should call "Stack with Delta You"
+
+
+Fen Nekin suffers the effect of Final Decree Nisi δ.
+Neige Aile suffers the effect of Final Decree Nisi γ.
+Miyuki Miyatsuki suffers the effect of Final Decree Nisi β.
+Dryads Celine suffers the effect of Final Decree Nisi α.
+You recovers from the effect of Final Decree Nisi
+
+GG EZ
