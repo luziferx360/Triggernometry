@@ -14,7 +14,9 @@ Brute Justice readies Judgment Nisi
 
 ##### First Debuff
 Counter = 1
+
 Debuff = Beta
+
 
 Aiz Yaiba suffers the effect of Final Decree Nisi α.
 
