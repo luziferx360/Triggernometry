@@ -1,8 +1,8 @@
 # FFXIV Triggernometry Trigger
 
-Anyquestion
-Twitter : @Calavelas
-Discord : Calavelas#8190
+Any question
+- Twitter : @Calavelas
+- Discord : Calavelas#8190
 
 ## The Epic of Alexander Nisi Partner Callout
 - Should works straightaway
